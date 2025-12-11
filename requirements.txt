@@ -54,6 +54,5 @@ torchvision==0.21.0+cu126
 tqdm==4.67.1
 typing_extensions==4.12.2
 tzdata @ file:///croot/python-tzdata_1690578112552/work
-urllib3==2.3.0
 wheel==0.45.1
 yarl==1.18.3
