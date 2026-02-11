@@ -29,7 +29,7 @@ numexpr @ file:///C:/Users/dev-admin/buildout/perseverance-python-buildout/croot
 numpy @ file:///C:/b/abs_56qrev29w_/croot/numpy_and_numpy_base_1738155838326/work/dist/numpy-2.2.2-cp313-cp313-win_amd64.whl#sha256=d740a4ea626e7bf6bf00c35764dc7aa8b81bd2db69d2c126d9f0969e39f92578
 packaging==24.2
 pandas @ file:///C:/b/abs_e18w9ay4we/croot/pandas_1732735115740/work/dist/pandas-2.2.3-cp313-cp313-win_amd64.whl#sha256=89153934c68f42239148879a6c0fd8bb5004e767550db26257dc4551ad0414d7
-pillow==11.0.0
+pillow>=12.1.1
 plotly==6.0.0
 propcache==0.3.0
 psutil==7.0.0
